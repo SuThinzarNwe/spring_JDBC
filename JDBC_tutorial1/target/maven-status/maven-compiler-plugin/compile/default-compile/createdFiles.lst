@@ -1,0 +1,7 @@
+com\scm\ojt\rowmapper\UserDetailRowmapper.class
+com\scm\ojt\model\UserDetail.class
+com\scm\ojt\service\UserDetailService.class
+com\scm\ojt\controller\UserDetailController.class
+com\scm\ojt\dao\UserDetailDao.class
+com\scm\ojt\service\impl\UserDetailServiceImpl.class
+com\scm\ojt\dao\impl\UserDetailDaoImpl.class
